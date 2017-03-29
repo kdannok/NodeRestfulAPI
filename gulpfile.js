@@ -1,6 +1,4 @@
-/**
- * Created by KD on 3/28/2017.
- */
+
 var gulp = require('gulp'),
 
 nodemon = require('gulp-nodemon');
